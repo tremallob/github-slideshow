@@ -2,10 +2,10 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+title: "Welcome to our GitHubteacher's slide!" :tada:
 
 ---
 
-This is the text to be edited
+This is my awesome slide
 
 Use the left arrow to go back!
