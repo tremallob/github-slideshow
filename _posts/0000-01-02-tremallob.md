@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Welcome to our GitHubteacher's slide!"
+title: "Welcome to our GitHubteacher's slide!" :tada:
 
 ---
 
